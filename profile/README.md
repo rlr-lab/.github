@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is the github repository for the [Ramon Lorenzo Redondo](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=40805) Lab at [Northwestern University](https://www.northwestern.edu/).
+This is the GitHub profile for the [Ramon Lorenzo Redondo](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=40805) Lab at [Northwestern University](https://www.northwestern.edu/).
 
 Our goal is to understand the virus-host system and its evolutionary properties in order to develop the best treatments and prevention strategies for human viral infections.
 
